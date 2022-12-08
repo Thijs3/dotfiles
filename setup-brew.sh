@@ -1,0 +1,1 @@
+cat homebrew.txt | xargs brew install
